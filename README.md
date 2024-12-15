@@ -6,3 +6,5 @@ Spot outliers that may indicate unique trading opportunities.
 Optimize portfolio diversification by avoiding overexposure to similar assets.
 
 In Forex, these insights are critical for risk management and strategic decision-making, especially when monitoring a large number of pairs.
+
+![download](https://github.com/user-attachments/assets/8de83da9-2f8f-4402-bbb6-b3def3efa333)
